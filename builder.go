@@ -1,7 +1,6 @@
 package main
 
 import (
-	"fmt"
 	"strings"
 )
 
@@ -11,6 +10,5 @@ func StringsBuilder(hello []string) {
 	for _, str := range hello {
 		b.WriteString(str)
 	}
-	fmt.Println(b.String())
-
+	// 	fmt.Println(b.String())
 }
