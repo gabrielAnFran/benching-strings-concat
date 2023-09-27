@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains benchmarking code for evaluating different methods of concatenating strings in the Go programming language. String concatenation is a common operation in software development, and the choice of method can significantly impact performance. This project aims to compare various techniques for string concatenation in Go to help developers make informed decisions.
+This repository contains benchmarking code for evaluating different methods of concatenating strings in the Go. String concatenation is a common operation in software development, and the choice of method can significantly impact performance. This project aims to compare various techniques for string concatenation in Go to help developers make informed decisions.
 
 ## Benchmarked Methods
 
