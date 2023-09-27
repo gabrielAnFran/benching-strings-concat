@@ -6,3 +6,6 @@ builder:
 
 concat: 
 	go test -bench concat_test.go
+
+sprintf: 
+	go test -bench concat_test.go
