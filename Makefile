@@ -9,3 +9,6 @@ concat:
 
 sprintf: 
 	go test -bench concat_test.go
+
+join: 
+	go test -bench join_test.go
